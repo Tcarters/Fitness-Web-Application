@@ -7,6 +7,7 @@ export const exerciseOptions = {
     }
   };
   
+  // console.log('key:' , `${process.env.REACT_APP_RAPID_API_KEY}`)
 
 
 
