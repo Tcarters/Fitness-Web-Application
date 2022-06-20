@@ -1,0 +1,12 @@
+import 'App.css'
+
+Now to define an img tag in the jsx file
+
+<img className="myclasss" />
+
+
+useEffect( () => {}, []) => the arrray at the end means content insdie useEffect will be loaded and displayes at the first
+everytime the page is reloaded.
+
+
+useParams from 'react-router-dom' used to manipulate id on a url endpoint.
