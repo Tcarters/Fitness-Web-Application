@@ -18,5 +18,5 @@ Step 7: Create the `App.css` file && Import it to the App.js file
 #
 ##
 ####
-####
+######
 ##
