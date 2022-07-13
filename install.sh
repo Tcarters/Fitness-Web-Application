@@ -13,7 +13,7 @@ Step 6: Install it with: npm install --legacy-peer-deps
 Step 7: Create the `App.css` file && Import it to the App.js file
 
 #
-####
+##
 
 #
 
